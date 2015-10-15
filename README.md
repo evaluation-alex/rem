@@ -190,6 +190,7 @@ You publish rem modules the same you way you would publish any other npm package
 Some guidelines so that these modules can be properly identified and categorized:
 * Start your package names with the prefix `react-native-`
 * Include the keyword `react-native` when you publish
+
 ## How it Works
 
 `rem` uses [CocoaPods](https://cocoapods.org/) and [npm](https://www.npmjs.com/) which are the most popular packaging tools for iOS and JS, respectively.
